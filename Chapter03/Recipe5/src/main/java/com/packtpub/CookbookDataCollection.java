@@ -3,7 +3,6 @@ package com.packtpub;
 import com.microsoft.azure.functions.annotation.*;
 import java.io.IOException;
 
-import com.fasterxml.jackson.core.JsonParser.Feature;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.google.gson.Gson;
 import com.google.gson.internal.LinkedTreeMap;
