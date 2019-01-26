@@ -90,6 +90,24 @@
         </dependency>
         
         <dependency>
+            <groupId>com.sendgrid</groupId>
+            <artifactId>sendgrid-java</artifactId>
+            <version>4.3.0</version>
+        </dependency>
+
+        <dependency>
+            <groupId>com.twilio.sdk</groupId>
+            <artifactId>twilio</artifactId>
+            <version>7.33.0</version>
+        </dependency>
+
+        <dependency>
+            <groupId>com.microsoft.azure.cognitiveservices</groupId>
+            <artifactId>azure-cognitiveservices-computervision</artifactId>
+            <version>1.0.2-beta</version>
+        </dependency>
+
+        <dependency>
             <groupId>com.microsoft.sqlserver</groupId>
             <artifactId>mssql-jdbc</artifactId>
             <version>7.0.0.jre8</version>
