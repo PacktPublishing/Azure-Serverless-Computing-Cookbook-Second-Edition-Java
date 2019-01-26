@@ -10,6 +10,7 @@ To follow along with the recipes in this book you will need to setup a developme
 - Azure Functions Core Tools (npm install -g azure-functions-core-tools)
 - Visual Studio Code
 - Azure Storage Explorer
+
 You will also need to install the following extensions for Visual Studio Code:
 - Java Extension Pack
 - Debugger for Java
