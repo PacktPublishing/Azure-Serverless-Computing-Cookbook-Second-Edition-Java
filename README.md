@@ -16,7 +16,7 @@ You will also need to install the following extensions for Visual Studio Code:
 - Debugger for Java
 - C#
 - Azure Functions
-
+### Your first project
 Once all the above is installed you can start your first Azure Functions as follows:
 1. In Visual Studio Code, open the Azure Functions explorer
 2. Create a new function by clicking on the **Create functions..** icon
