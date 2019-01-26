@@ -1,6 +1,6 @@
 # Azure Serverless Computing Cookbook Second Edition Java
 ## Introduction
-When using Java with Azure Functions we don't have the portal support available with C#.  Because of this we will need to do the development in **Visual Studio Code** right from the start.  If you have followed along in the C# view presented in the mainline of the book this will be unfamiliar until Chapter 4.
+When using **Java** with **Azure Functions** we don't have the portal support available with **C#**.  Because of this we will need to do the development in **Visual Studio Code** right from the start.  If you have followed along in the **C#** view presented in the mainline of the book, this will be unfamiliar until Chapter 4.
 ## Getting Started
 ### Preparing your development workstation
 To follow along with the recipes in this book you will need to setup a development workstation and install the following software:
