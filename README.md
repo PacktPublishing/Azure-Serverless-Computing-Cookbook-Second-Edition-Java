@@ -23,17 +23,17 @@ Once all the above is installed you can start your first Azure Functions as foll
 3. Click **Browse..**
 4. Create a folder to hold your function project and select it
 5. When the initialisation dialog pops up click **Yes**
-6. Select Java as the language for your function project
-7. Enter a group ID for the maven project. I used **com.packtpub**
-8. Enter an artefact Id for the maven project.  I used **packtpub-functions**
-9. Enter a version for the maven project.  I used **1.0-SNAPSHOT**
-10. Enter a Java package for the maven project.  I used **com.packtpub**
-11. Enter a name for the function.  Based on the first Recepie in chapter 1, I used **RegisterUser**
-12. Select HttpTrigger
-13. Enter a Java package again.  I used **com.packtpub**
-14. Enter a function name.  I used **Register User**
+6. Select **Java** as the language for your function project
+7. Enter a **Group ID** for the maven project. I used **com.packtpub**
+8. Enter an **Artefact ID** for the maven project.  I used **packtpub-functions**
+9. Enter a **Version** for the maven project.  I used **1.0-SNAPSHOT**
+10. Enter a **Java Package** for the maven project.  I used **com.packtpub**
+11. Enter a **Name** for the function.  Based on the first Recipe in **Chapter 1**, I used **RegisterUser**
+12. Select **HttpTrigger**
+13. Enter a **Java Package** again.  I used **com.packtpub**
+14. Enter a **Function Name**.  I used **Register User**
 15. Select the **Anonymous** Authorisation Level
 16. Select how you would like to open your project.  I used **Open in current window**
-17.  Your function project will now initialise and open in the explorer.  All the required configuration files are automatically created.  In addition to your RegisterUser.java, a defailt called Function.java will also have been creted; you are free to delete that source file and any test source files related to it.
+17.  Your function project will now initialise and open in the explorer.  All the required configuration files are automatically created.  In addition to your **RegisterUser.java**, a default called **Function.java** will also have been created; you are free to delete that source file and any test source files related to it.
 
 The Chapter directories you will find here are examples and complete project folders, so these steps are for your information and to help you if you want to start with a fresh project and build up your own functions independently of the examples.
