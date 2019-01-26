@@ -19,7 +19,7 @@ You will also need to install the following extensions for Visual Studio Code:
 
 Once all the above is installed you can start your first Azure Functions as follows:
 1. In Visual Studio Code, open the Azure Functions explorer
-2. Create a new function by clicklign on the **Creat functions..** icon
+2. Create a new function by clicking on the **Create functions..** icon
 3. Click **Browse..**
 4. Create a folder to hold your function project and select it
 5. When the initialisation dialog pops up click **Yes**
