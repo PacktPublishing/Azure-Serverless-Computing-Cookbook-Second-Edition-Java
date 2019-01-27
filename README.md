@@ -35,7 +35,7 @@ Once all the above is installed you can start your first Azure Functions as foll
 15. Select the **Anonymous** Authorisation Level
 16. Select how you would like to open your project.  I used **Open in current window**
 17.  Your function project will now initialise and open in the explorer.  All the required configuration files are automatically created.  In addition to your **RegisterUser.java**, a default called **Function.java** will also have been created; you are free to delete that source file and any test source files related to it.
-### So, what now?
+## So, what now?
 At this point you will have a completely configured project folder.  Key files in that structure are:
 - **extensions.csproj** Configuration for installing the NuGet packages needed to support bindings that are not core to Azure Functions
 - **host.json** Configuration settings for Azure Functions.  Most settings are configured with Annotations when using Java so we generally leave this unchanged
