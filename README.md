@@ -41,4 +41,4 @@ At this point you will have a completely configured project folder.  Key files i
 - **host.json** Configuration settings for Azure Functions.  Most settings are configured with Annotations when using Java so we generally leave this unchanged
 - **pom.xml** The Maven build and deployment configuration.  We will modify this with dependencies as needed
 
-The Chapter directories you will find here contain Recipe folders which are complete project folders and each recipe builds on the previous one, so the above steps are for your information and to help you if you want to start with a fresh project and build up your own functions independently of the examples.
+The Chapter directories you will find here contain Recipe folders which are complete project folders and each recipe builds on the previous one, so the above steps are for your information and to help you if you want to start with a fresh project and build up your own functions independently of the recipes.
