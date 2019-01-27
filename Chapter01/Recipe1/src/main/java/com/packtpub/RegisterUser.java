@@ -32,8 +32,8 @@ public class RegisterUser {
             try {
                 employee = mapper.readValue(json, Employee.class);
             } catch (IOException e) {
-				employee = new Employee();
-			}
+                employee = new Employee();
+            }
         }
         else {
             employee = new Employee();
