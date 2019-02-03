@@ -54,8 +54,8 @@ public class SaveJSONToAzureSQLDatabase {
                 || StringUtils.isBlank(employeeInfo.getDeviceList())) {
             return request.createResponseBuilder(HttpStatus.BAD_REQUEST).body("Please pass a name on the query string or in the request body").build();
         } else {
-            String hostName = "cookbook-jm.database.windows.net";
-            String databaseName = "Cookbookdatabase";
+            String hostName = "your_hostname.database.windows.net";
+            String databaseName = "your_database";
             
             String url = String.format("jdbc:sqlserver://%s:1433;database=%s;encrypt=true;hostNameInCertificate=*.database.windows.net;loginTimeout=30;msiEnable=true",
                 hostName,

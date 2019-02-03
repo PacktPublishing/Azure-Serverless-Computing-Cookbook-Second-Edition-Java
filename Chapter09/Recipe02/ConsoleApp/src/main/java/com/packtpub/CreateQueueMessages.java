@@ -13,7 +13,7 @@ public class CreateQueueMessages {
     public static void main(String[] args) {
         CloudStorageAccount storageAccount;
         try {
-            storageAccount = CloudStorageAccount.parse("DefaultEndpointsProtocol=https;AccountName=packtfunctionapp;AccountKey=WB8dj8FHhqZenTeRnyicfD3wN8s7AcO8W5Tr36/YJqWitW69hP2dZoBvwORAP8jUdYx0oxerMvpRExTCbjSdJg==");
+            storageAccount = CloudStorageAccount.parse("DefaultEndpointsProtocol=https;AccountName=packtfunctionapp;AccountKey=your_account_key");
             CloudQueueClient queueClient = storageAccount.createCloudQueueClient();
             CloudQueue queue = queueClient.getQueueReference("myqueuemessages");
             queue.createIfNotExists();
