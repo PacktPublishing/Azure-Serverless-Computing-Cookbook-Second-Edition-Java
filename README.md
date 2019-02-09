@@ -39,7 +39,7 @@ Once all the above is installed you can start your first Azure Functions as foll
 ### Deploying your first project
 1. In the Azure Functions explorer in Visual Studio Code, click the "Deploy to Function App…" icon (The first time you do this you will need to login to Azure)
 2. Select the Azure subscription you wish to deploy to
-3. Click "Create New Function App" or select an existing Azure Function App (if selecting an existing app, you can ignore the followign steps)
+3. Click "Create New Function App" or select an existing Azure Function App (if selecting an existing app, you can ignore the following steps)
 4. Enter a globally unique name for your function app
 5. Click "Create new resource group"
 6. Enter a name for your resource group
