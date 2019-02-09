@@ -48,7 +48,7 @@ Once all the above is installed you can start your first Azure Functions as foll
 9. Select a region to deploy into
 
 ### Things to check
-If you get a class not found exeception when trying to run your new Azure functions then make sure the "FUNCTIONS_WORKER_RUNTIME" setting is set to "java"
+If you get a class not found exeception when trying to run your new Azure functions then make sure the "**FUNCTIONS_WORKER_RUNTIME**" setting is set to "**java**"
 
 ## So, what now?
 At this point you will have a completely configured project folder and have deployed it to a new or existing Azure Function Application.  Key files in that structure are:
