@@ -37,13 +37,13 @@ Once all the above is installed you can start your first Azure Functions as foll
 17.  Your function project will now initialise and open in the explorer.  All the required configuration files are automatically created.  In addition to your **RegisterUser.java**, a default called **Function.java** will also have been created; you are free to delete that source file and any test source files related to it.
 
 ### Deploying your first project
-1. In the Azure Functions explorer in Visual Studio Code, click the "Deploy to Function App…" icon (The first time you do this you will need to login to Azure)
+1. In the Azure Functions explorer in Visual Studio Code, click the "**Deploy to Function App…**" icon (The first time you do this you will need to login to Azure)
 2. Select the Azure subscription you wish to deploy to
-3. Click "Create New Function App" or select an existing Azure Function App (if selecting an existing app, you can ignore the following steps)
+3. Click "**Create New Function App**" or select an existing Azure Function App (if selecting an existing app, you can ignore the following steps)
 4. Enter a globally unique name for your function app
-5. Click "Create new resource group"
+5. Click "**Create new resource group**"
 6. Enter a name for your resource group
-7. Click "Create new storage account"
+7. Click "**Create new storage account**"
 8. Enter a name for your storage account
 9. Select a region to deploy into
 
