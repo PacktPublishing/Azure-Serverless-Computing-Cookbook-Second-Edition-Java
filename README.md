@@ -35,8 +35,20 @@ Once all the above is installed you can start your first Azure Functions as foll
 15. Select the **Anonymous** Authorisation Level
 16. Select how you would like to open your project.  I used **Open in current window**
 17.  Your function project will now initialise and open in the explorer.  All the required configuration files are automatically created.  In addition to your **RegisterUser.java**, a default called **Function.java** will also have been created; you are free to delete that source file and any test source files related to it.
+
+### Deploying your first project
+1. In the Azure Functions explorer in Visual Studio Code, click the "Deploy to Function App…" icon (The first time you do this you will need to login to Azure)
+2. Select the Azure subscription you wish to deploy to
+3. Click "Create New Function App" or select an existing Azure Function App (if selecting an existing app, you can ignore the followign steps)
+4. Enter a globally unique name for your function app
+5. Click "Create new resource group"
+6. Enter a name for your resource group
+7. Click "Create new storage account"
+8. Enter a name for your storage account
+9. Select a region to deploy into
+
 ## So, what now?
-At this point you will have a completely configured project folder.  Key files in that structure are:
+At this point you will have a completely configured project folder and have deployed it to a new or existing Azure Function Application.  Key files in that structure are:
 - **extensions.csproj** Configuration for installing the NuGet packages needed to support bindings that are not core to Azure Functions
 - **host.json** Configuration settings for Azure Functions.  Most settings are configured with Annotations when using Java so we generally leave this unchanged
 - **pom.xml** The Maven build and deployment configuration.  We will modify this with dependencies as needed
