@@ -1,3 +1,8 @@
+## $5 Tech Unlocked 2021!
+[Buy and download this product for only $5 on PacktPub.com](https://www.packtpub.com/)
+-----
+*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
+
 # Azure Serverless Computing Cookbook Second Edition Java
 ## Introduction
 When using **Java** with **Azure Functions** we don't have the portal support available with **C#**.  Because of this we will need to do the development in **Visual Studio Code** right from the start.  If you have followed along in the **C#** view presented in the mainline of the book, this will be unfamiliar until Chapter 4.
@@ -37,7 +42,7 @@ Once all the above is installed you can start your first Azure Functions as foll
 17.  Your function project will now initialise and open in the explorer.  All the required configuration files are automatically created.  In addition to your **RegisterUser.java**, a default called **Function.java** will also have been created; you are free to delete that source file and any test source files related to it.
 
 ### Deploying your first project
-1. In the Azure Functions explorer in Visual Studio Code, click the "**Deploy to Function App…**" icon (The first time you do this you will need to login to Azure)
+1. In the Azure Functions explorer in Visual Studio Code, click the "**Deploy to Function Appâ€¦**" icon (The first time you do this you will need to login to Azure)
 2. Select the Azure subscription you wish to deploy to
 3. Click "**Create New Function App**" or select an existing Azure Function App (if selecting an existing app, you can ignore the following steps)
 4. Enter a globally unique name for your function app
