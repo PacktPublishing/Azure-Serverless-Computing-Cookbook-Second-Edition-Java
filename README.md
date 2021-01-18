@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this product for only $5 on PacktPub.com](https://www.packtpub.com/)
------
-*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 # Azure Serverless Computing Cookbook Second Edition Java
 ## Introduction
 When using **Java** with **Azure Functions** we don't have the portal support available with **C#**.  Because of this we will need to do the development in **Visual Studio Code** right from the start.  If you have followed along in the **C#** view presented in the mainline of the book, this will be unfamiliar until Chapter 4.
